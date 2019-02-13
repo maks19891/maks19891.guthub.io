@@ -1,5 +1,5 @@
 body {
-    padding: 20px;
+    padding: 5px 0 0 20px;
 }
 
 .row {
@@ -17,8 +17,13 @@ body {
     border: 1px solid #000;
 }
 
-.neon {
+x-sign {
     display: none;
+}
+
+p {
+    font-size: 22px;
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 1800px) {
