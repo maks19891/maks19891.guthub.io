@@ -17,7 +17,9 @@ body {
     border: 1px solid #000;
 }
 
-h1 {}
+.neon {
+    display: none;
+}
 
 @media screen and (max-width: 1800px) {
     html {
