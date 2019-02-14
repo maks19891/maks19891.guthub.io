@@ -4,16 +4,16 @@ body {
 
 .row {
     display: flex;
-    height: 200px;
+    height: 100px;
 }
 
 .col {
-    width: 200px;
+    width: 100px;
     border: 1px solid #000;
 }
 
 .images img {
-    width: 100px;
+    width: 75px;
     border: 1px solid #000;
 }
 
