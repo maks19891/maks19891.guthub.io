@@ -77,7 +77,7 @@ p {
     @keyframes flicker {
         50% {
             color: white;
-            filter: saturate(200%) hue-rotate(20deg);
+            filter: saturate(150%) hue-rotate(20deg);
         }
     }
 }
